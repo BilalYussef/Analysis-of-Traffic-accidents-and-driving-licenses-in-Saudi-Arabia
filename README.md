@@ -2,7 +2,7 @@
 
 The number of traffic accidents and the casuialties resulted from these accidents are enourmos in saudi arabia. applying new rules and regulations and puting strict penalties on the traffic violations has decreased the number of accidents between 2016 and 2017. however, the number of traffic accidents in the kingdom still very high. data for the traffic accidents for each administrative area in the kingdom was gathered for 2016 and 2017. also, data of the number of driving licenses issued were gathered for each province for many years. we hope that by analysing this data we can extract insights and help reducing the number of traffic accidents in the kingdom.
 
-The number of traffic Accidents in any place is goverened by two root drivers:
+The number of traffic Accidents in any place is goverened by three root drivers:
 1. The number of cars on the road.
 2. The Driver behaviour. 
 3. Road structure and traffic engineering.
